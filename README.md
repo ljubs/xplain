@@ -7,12 +7,15 @@ A modern take on Unix man pages, powered by an LLM.
 
 ## Installation
 
-``bash
+```bash
 git clone https://github.com/yourusername/xplain.git
 cd xplain
 pip install .
+```
 
 
 ## Setup
 You’ll need an OpenAI API key:
+```bash
 export OPENAI_API_KEY=sk-...your_key...
+```
