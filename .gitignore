@@ -1,2 +1,6 @@
-# Don't commit secrets
+# Need to clean up the .gitignore
 .env
+
+build
+
+*.egg-info
